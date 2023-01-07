@@ -1,6 +1,6 @@
 /*
  * Developed by Denilson Gomes
- * Computer engineer
+ * Computer Engineer
  * Company: Control Engenharia
  */
 
@@ -13,7 +13,7 @@ String aux1; // String auxiliar1
 String aux2; // String auxiliar2
 
 // Objeto
-SoftwareSerial mySerial(2,3); // Objeto mySerial
+SoftwareSerial mySerial(3,2); // Objeto mySerial
 
 // Setup
 void setup() {
